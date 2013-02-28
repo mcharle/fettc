@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: 
+  category: MyString
+  post_time: 2013-02-22 10:24:27
+  is_approved: false
+
+two:
+  title: 
+  category: MyString
+  post_time: 2013-02-22 10:24:27
+  is_approved: false
