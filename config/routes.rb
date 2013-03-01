@@ -1,4 +1,14 @@
 Fettc::Application.routes.draw do
+  #get "static_pages/home"
+
+  get "static_pages/about"
+
+  root to: "static_pages#home"
+
+  #resources :comm_methods
+
+  #resources :users
+
   resources :notifications
 
 
